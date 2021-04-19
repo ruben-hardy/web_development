@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.logo {
+    background: purple;
+    font-family: 'Marck Script', cursive;
+    text-transform: capitalize;
+}
+
+.table {
+    color: rgb(7, 6, 49);
+    font-size: 1em;
+    margin-left: 42vw;
+
+}
